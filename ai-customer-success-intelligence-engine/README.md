@@ -110,13 +110,16 @@ Instead of multiple teams creating reports independently, the workflow creates a
 ## Screenshots
 
 ### Executive summary
+Provides an executive-level overview of learner activation, engagement, AI adoption, and key signals requiring attention.
 
 ![Executive summary](screenshots/executive-summary.png)
 
 ### Content mapped to workplace needs
+Connects learning activity to employee roles and workplace communication challenges, helping stakeholders understand how platform engagement relates to business needs.
 
 ![Content mapped to workplace needs](screenshots/content-workplace-needs.png)
 
-### Platform engagement snapshot
+### Platform engagement Analysis
+Transforms raw activity data into engagement trends, content preferences, and learning patterns across the cohort.
 
 ![Platform engagement snapshot](screenshots/platform-engagement.png)
