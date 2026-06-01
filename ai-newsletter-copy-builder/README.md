@@ -187,9 +187,6 @@ As new newsletters are published, performance data can be reviewed and used to r
 
 ![Intro generation and final assembly](ai-newsletter-copy-builder/screenshots/tiny-8.png)
 
-### Final newsletter copy
-
-![Final newsletter copy](ai-newsletter-copy-builder/screenshots/tiny-5.png)
 
 ---
 
