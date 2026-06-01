@@ -159,39 +159,37 @@ As new newsletters are published, performance data can be reviewed and used to r
 
 ## Screenshots
 
-## Screenshots
-
 ### Generate newsletter ideas
 
-![Generate newsletter ideas](screenshots/tiny-1.png)
+![Generate newsletter ideas](ai-newsletter-copy-builder/screenshots/tiny-1.png)
 
 ### Idea recommendations
 
-![Idea recommendations](screenshots/tiny-2.png)
+![Idea recommendations](ai-newsletter-copy-builder/screenshots/tiny-2.png)
 
 ### Build the newsletter structure
 
-![Newsletter structure builder](screenshots/tiny-3.png)
+![Newsletter structure builder](ai-newsletter-copy-builder/screenshots/tiny-3.png)
 
 ### Generate section angles
 
-![Section angle generation](screenshots/tiny-4.png)
+![Section angle generation](ai-newsletter-copy-builder/screenshots/tiny-4.png)
 
 ### Subject line generation and scoring
 
-![Subject line generation and scoring](screenshots/tiny-6.png)
+![Subject line generation and scoring](ai-newsletter-copy-builder/screenshots/tiny-6.png)
 
 ### Subject line evaluation
 
-![Subject line evaluation](screenshots/tiny-7.png)
+![Subject line evaluation](ai-newsletter-copy-builder/screenshots/tiny-7.png)
 
-### Intro generation
+### Intro generation and final assembly
 
-![Newsletter intro generation](screenshots/tiny-8.png)
+![Intro generation and final assembly](ai-newsletter-copy-builder/screenshots/tiny-8.png)
 
-### Final newsletter assembly
+### Final newsletter copy
 
-![Final newsletter assembly](screenshots/tiny-5.png)
+![Final newsletter copy](ai-newsletter-copy-builder/screenshots/tiny-5.png)
 
 ---
 
