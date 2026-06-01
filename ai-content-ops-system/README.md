@@ -116,33 +116,28 @@ Don't Say This → Say This Instead
 ## Screenshots
 
 ### Setup screen
-
 ![Setup screen](screenshots/graphics-1.png)
 
 ### URL review
-
 ![URL review](screenshots/graphics-3.png)
 
 ### Content generation
-
 ![Generated copy fields](screenshots/graphics-5.png)
 
 ### Canva MCP connector
-
 ![Canva connector permission](screenshots/graphics-6.png)
 
 ### Canva design created
-
 ![Canva success screen](screenshots/graphics-7.png)
 
 ### Final social graphic
-
 ![Final Canva graphic](screenshots/graphics-8.png)
+
 ---
 
 ## Outcome
-
 The workflow reduces the time required to transform long-form content into publishable social graphics while maintaining quality control and brand consistency.
+
 ---
 ## Business Impact
 
