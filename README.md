@@ -2,8 +2,38 @@
 
 AI systems, workflow automations, and internal tools I've designed to improve content operations, customer intelligence, GTM execution, and marketing productivity.
 
-These projects sit at the intersection of marketing strategy, behavioral science, AI workflows, prompt architecture, and operational systems design.
+These projects sit at the intersection of marketing strategy, behavioral science, AI workflows, prompt architecture, and operational systems design. 
+Many started as manual, repetitive processes and evolved into structured systems involving prompt orchestration, shared knowledge repositories, business rules, reporting layers, and human-in-the-loop decision making.
 
+Examples of systems I've designed, built, or helped operationalize include:
+
+* AI-assisted content operations platforms
+* Customer intelligence and reporting systems
+* Content repurposing workflows
+* Behavioral-science-driven copy systems
+* Prompt architectures and evaluation frameworks
+* Shared knowledge repositories
+* Multi-stage AI workflows
+* MCP-powered automations and integrations
+* Internal AI applications connected to business data
+
+---
+## Technical & Systems Experience
+
+* Prompt engineering
+* Multi-step workflow orchestration
+* MCP integrations
+* Structured AI outputs and schemas
+* Shared knowledge repositories
+* Human-in-the-loop systems
+* AI evaluation frameworks
+* Business intelligence and reporting workflows
+* SEO intelligence systems
+* Process automation
+* Internal tooling and operational systems
+* Data interpretation and recommendation engines
+
+---
 ## Featured Projects
 
 ### [AI Social Content Repurposing Engine](./ai-content-ops-system)
