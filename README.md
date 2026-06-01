@@ -1,5 +1,4 @@
 # AI Marketing Portfolio
-
 AI systems, workflow automations, and internal tools I've designed to improve content operations, customer intelligence, GTM execution, and marketing productivity.
 
 These projects sit at the intersection of marketing strategy, behavioral science, AI workflows, prompt architecture, and operational systems design. 
@@ -88,3 +87,8 @@ The platform combines AI generation workflows with SEO intelligence, performance
 * Cross-functional operational design
 * GTM and revenue enablement systems
 * Translating business processes into scalable AI-assisted workflows
+
+---
+
+_Paola Pascual_
+🔗 LinkedIn: linkedin.com/in/paolapascual
