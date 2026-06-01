@@ -40,11 +40,7 @@ The platform also creates a feedback loop between publishing and performance. Se
 
 ## My Role
 
-This was a collaborative internal project.
-
-The underlying platform architecture and engineering were built by Mel MacMahon.
-
-My role sat at the intersection of marketing, product, AI workflows, and content operations.
+This was a collaborative internal project. My role sat at the intersection of marketing, product, AI workflows, and content operations.
 
 Key contributions included:
 
