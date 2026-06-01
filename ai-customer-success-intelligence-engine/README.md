@@ -103,9 +103,7 @@ Teams using the system include:
 - Sales
 - Marketing
 
-This allows customer insights, engagement trends, and learner behavior data to be consistently interpreted and shared across the organization.
-
-Instead of multiple teams creating reports independently, the workflow creates a standardized intelligence layer that supports customer conversations, expansion opportunities, renewal discussions, and marketing initiatives.
+This allows customer insights, engagement trends, and learner behavior data to be consistently interpreted and shared across the organization. Instead of multiple teams creating reports independently, the workflow creates a standardized intelligence layer that supports customer conversations, expansion opportunities, renewal discussions, and marketing initiatives.
 
 ## Screenshots
 
