@@ -41,7 +41,7 @@ Transforms blog articles into Canva-ready social graphics and captions using str
 
 **Focus:** content repurposing, Canva automation, prompt engineering, structured AI outputs, human-in-the-loop review
 
----
+-
 
 ### [AI Newsletter Strategy Engine](./ai-newsletter-copy-builder)
 
@@ -51,7 +51,7 @@ Built after analyzing newsletter performance across multiple campaigns and ident
 
 **Focus:** behavioral science, editorial systems, pattern extraction, experimentation, subject line scoring, AI-assisted copy strategy
 
----
+-
 
 ### [AI Customer Success Intelligence Engine](./ai-customer-success-intelligence-engine)
 
@@ -61,7 +61,7 @@ Used across Customer Success, Sales, Marketing, and Account Management teams to 
 
 **Focus:** customer intelligence, product usage analytics, account expansion, renewal narratives, executive reporting, MCP-powered workflows
 
----
+-
 
 ### [AI Content Operations & Intelligence Platform](./ai-content-pipeline)
 
@@ -91,4 +91,5 @@ The platform combines AI generation workflows with SEO intelligence, performance
 ---
 
 _Paola Pascual_
-🔗 LinkedIn: linkedin.com/in/paolapascual
+
+🔗 LinkedIn: https://www.linkedin.com/in/paolapgea/
