@@ -39,9 +39,9 @@ Examples of systems I've designed, built, or helped operationalize include:
 
 Transforms blog articles into Canva-ready social graphics and captions using structured prompts, reusable templates, human review, and MCP-powered automation.
 
-**Focus:** content repurposing, Canva automation, prompt engineering, structured AI outputs, human-in-the-loop review
+**Focus:** content repurposing, Canva automation, prompt engineering, structured AI outputs, human-in-the-loop review.
 
--
+***
 
 ### [AI Newsletter Strategy Engine](./ai-newsletter-copy-builder)
 
@@ -49,9 +49,9 @@ Generates newsletter concepts, structures, subject lines, intros, and final copy
 
 Built after analyzing newsletter performance across multiple campaigns and identifying repeatable patterns behind high open rates and engagement.
 
-**Focus:** behavioral science, editorial systems, pattern extraction, experimentation, subject line scoring, AI-assisted copy strategy
+**Focus:** behavioral science, editorial systems, pattern extraction, experimentation, subject line scoring, AI-assisted copy strategy.
 
--
+***
 
 ### [AI Customer Success Intelligence Engine](./ai-customer-success-intelligence-engine)
 
@@ -59,9 +59,9 @@ Transforms learner engagement data into executive-ready impact reports, customer
 
 Used across Customer Success, Sales, Marketing, and Account Management teams to convert product usage data into actionable business intelligence.
 
-**Focus:** customer intelligence, product usage analytics, account expansion, renewal narratives, executive reporting, MCP-powered workflows
+**Focus:** customer intelligence, product usage analytics, account expansion, renewal narratives, executive reporting, MCP-powered workflows.
 
--
+***
 
 ### [AI Content Operations & Intelligence Platform](./ai-content-pipeline)
 
@@ -69,7 +69,7 @@ A collaborative internal platform that supports the entire content lifecycle, fr
 
 The platform combines AI generation workflows with SEO intelligence, performance analytics, health checks, and centralized knowledge repositories to create a scalable content operating system.
 
-**Focus:** workflow design, prompt architecture, SEO intelligence, content operations, performance monitoring, AI-assisted publishing, internal tooling
+**Focus:** workflow design, prompt architecture, SEO intelligence, content operations, performance monitoring, AI-assisted publishing, internal tooling.
 
 ---
 
@@ -90,6 +90,6 @@ The platform combines AI generation workflows with SEO intelligence, performance
 
 ---
 
-_Paola Pascual_
+***Paola Pascual***
 
-🔗 LinkedIn: https://www.linkedin.com/in/paolapgea/
+🔗 LinkedIn: [linkedin.com/in/paolapgea](https://www.linkedin.com/in/paolapgea/)
