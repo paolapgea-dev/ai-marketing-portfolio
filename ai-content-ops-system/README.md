@@ -1,4 +1,4 @@
-# AI Content Operations System
+# AI Social Content Repurposing Engine
 
 ## Overview
 
@@ -56,7 +56,7 @@ Template Selection
 
 ↓
 
-AI Content Transformation
+AI Content Transformation (Structured JSON)
 
 ↓
 
@@ -143,3 +143,20 @@ Don't Say This → Say This Instead
 ## Outcome
 
 The workflow reduces the time required to transform long-form content into publishable social graphics while maintaining quality control and brand consistency.
+---
+## Business Impact
+
+Before:
+- Manual content repurposing
+- Multiple copy/paste steps
+- Canva production done manually
+
+After:
+- Automated extraction and transformation
+- Structured outputs ready for review
+- Canva design generation through MCP integration
+
+Result:
+- Reduced production time per asset
+- Improved consistency across social formats
+- Easier scaling of content repurposing
