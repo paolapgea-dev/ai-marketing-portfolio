@@ -71,6 +71,14 @@ The platform combines AI generation workflows with SEO intelligence, performance
 
 **Focus:** workflow design, prompt architecture, SEO intelligence, content operations, performance monitoring, AI-assisted publishing, internal tooling.
 
+### [AI Lifecycle Strategy Agent](./lifecycle-strategy-agent)
+
+An agentic lifecycle intelligence system that reviews CRM, engagement, company, and sales signals, investigates missing context, recommends the next best action, and executes approved HubSpot follow-up with safeguards.
+
+The agent combines deterministic business rules with selective AI reasoning, using HubSpot, Anthropic, and Google Sheets APIs to classify contacts, assess intent and fit, prevent duplicate sales activity, update approved CRM properties, and maintain an auditable record of each decision.
+
+**Focus:** agentic AI, lifecycle marketing, CRM intelligence, HubSpot automation, intent classification, next-best-action recommendations, API integrations, human-in-the-loop safeguards.
+
 ---
 
 ## What This Portfolio Shows
