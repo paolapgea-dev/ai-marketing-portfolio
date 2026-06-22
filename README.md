@@ -73,7 +73,7 @@ The platform combines AI generation workflows with SEO intelligence, performance
 
 ***
 
-### [AI Lifecycle Strategy Agent](./lifecycle-strategy-agent)
+### [AI Lifecycle Strategy Agent](./ai-lifecycle-strategy-agent)
 
 An agentic lifecycle intelligence system that reviews CRM, engagement, company, and sales signals, investigates missing context, recommends the next best action, and executes approved HubSpot follow-up with safeguards.
 
