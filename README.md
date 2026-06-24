@@ -4,18 +4,6 @@ AI systems, workflow automations, and internal tools I've designed to improve co
 These projects sit at the intersection of marketing strategy, behavioral science, AI workflows, prompt architecture, and operational systems design. 
 Many started as manual, repetitive processes and evolved into structured systems involving prompt orchestration, shared knowledge repositories, business rules, reporting layers, and human-in-the-loop decision making.
 
-Examples of systems I've designed, built, or helped operationalize include:
-
-* AI-assisted content operations platforms
-* Customer intelligence and reporting systems
-* Content repurposing workflows
-* Behavioral-science-driven copy systems
-* Prompt architectures and evaluation frameworks
-* Shared knowledge repositories
-* Multi-stage AI workflows
-* MCP-powered automations and integrations
-* Internal AI applications connected to business data
-
 ---
 ## Technical & Systems Experience
 
@@ -35,7 +23,7 @@ Examples of systems I've designed, built, or helped operationalize include:
 ---
 ## Featured Projects
 
-### [AI Social Content Repurposing Engine](./ai-content-ops-system)
+### [Social Media: AI Content Repurposing](./ai-content-ops-system)
 
 Transforms blog articles into Canva-ready social graphics and captions using structured prompts, reusable templates, human review, and MCP-powered automation.
 
@@ -43,11 +31,11 @@ Transforms blog articles into Canva-ready social graphics and captions using str
 
 ***
 
-### [AI Newsletter Strategy Engine](./ai-newsletter-copy-builder)
+### [AI Newsletter Strategy & Copy](./ai-newsletter-copy-builder)
 
 Generates newsletter concepts, structures, subject lines, intros, and final copy based on behavioral science principles and patterns extracted from real newsletter performance data.
 
-Built after analyzing newsletter performance across multiple campaigns and identifying repeatable patterns behind high open rates and engagement.
+Built after analyzing newsletter performance across multiple campaigns and identifying repeatable patterns behind high open rates and engagement. The system continuously updates its patterns and performance intelligence with each new newsletter issue, allowing it to refine recommendations based on the latest engagement data and evolving audience behavior.
 
 **Focus:** behavioral science, editorial systems, pattern extraction, experimentation, subject line scoring, AI-assisted copy strategy.
 
@@ -55,7 +43,7 @@ Built after analyzing newsletter performance across multiple campaigns and ident
 
 ### [AI Customer Success Intelligence Engine](./ai-customer-success-intelligence-engine)
 
-Transforms learner engagement data into executive-ready impact reports, customer success insights, expansion opportunities, adoption narratives, and stakeholder-ready business recommendations.
+Transforms customer engagement data into executive-ready impact reports, customer success insights, expansion opportunities, adoption narratives, and stakeholder-ready business recommendations.
 
 Used across Customer Success, Sales, Marketing, and Account Management teams to convert product usage data into actionable business intelligence.
 
@@ -70,7 +58,9 @@ A collaborative internal platform that supports the entire content lifecycle, fr
 The platform combines AI generation workflows with SEO intelligence, performance analytics, health checks, and centralized knowledge repositories to create a scalable content operating system.
 
 **Focus:** workflow design, prompt architecture, SEO intelligence, content operations, performance monitoring, AI-assisted publishing, internal tooling.
+
 ***
+
 ### [AI Editorial Review Engine](./ai-editorial-review-engine)
 An internal AI-powered quality-control system that reviews article drafts against a detailed editorial framework covering brand voice, structure, readability, SEO, internal linking, evidence, and AI-search visibility.
 
@@ -80,7 +70,7 @@ The engine sits between drafting and publication. It converts formatted content 
 
 ***
 
-### [AI Lifecycle Strategy Agent](./ai-lifecycle-strategy-agent)
+### [Lifecycle Strategy Agent](./ai-lifecycle-strategy-agent)
 
 An agentic lifecycle intelligence system that reviews CRM, engagement, company, and sales signals, investigates missing context, recommends the next best action, and executes approved HubSpot follow-up with safeguards.
 
@@ -90,7 +80,7 @@ The agent combines deterministic business rules with selective AI reasoning, usi
 
 ---
 
-## What This Portfolio Shows
+## What This Portfolio Demonstrates
 
 * AI workflow design
 * Prompt architecture and orchestration
