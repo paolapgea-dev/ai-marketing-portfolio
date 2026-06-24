@@ -70,6 +70,13 @@ A collaborative internal platform that supports the entire content lifecycle, fr
 The platform combines AI generation workflows with SEO intelligence, performance analytics, health checks, and centralized knowledge repositories to create a scalable content operating system.
 
 **Focus:** workflow design, prompt architecture, SEO intelligence, content operations, performance monitoring, AI-assisted publishing, internal tooling.
+***
+### [AI Editorial Review Engine](./ai-editorial-review-engine)
+An internal AI-powered quality-control system that reviews article drafts against a detailed editorial framework covering brand voice, structure, readability, SEO, internal linking, evidence, and AI-search visibility.
+
+The engine sits between drafting and publication. It converts formatted content into markdown, applies the same editorial standards to every article, and produces both a publication-ready revision and a detailed changelog explaining what changed.
+
+**Focus:** editorial operations, prompt architecture, content quality systems, SEO governance, AI-assisted editing, human-in-the-loop review, internal tooling.
 
 ***
 
